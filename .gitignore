@@ -279,3 +279,6 @@ TSWLatexianTemp*
 # pdf files. The pdf files in the calculation directory are included since they assumed to be scanned and not compiled from tex
 *.pdf
 !calculations/*.pdf
+
+# desktop.ini
+*desktop.ini
